@@ -2,7 +2,7 @@ package singleton_test
 
 import (
 	"fmt"
-	"go-example/patterns/structural/singleton"
+	"go-example/patterns/creational/singleton"
 	"testing"
 )
 
